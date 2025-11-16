@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este script de PowerShell está diseñado para verificar remotamente el estado de los equipos en las sucursalesde una empresa, específicamente para comprobar que los técnicos hayan realizado las actualizaciones requeridas:
+Este script de PowerShell está diseñado para verificar remotamente el estado de los equipos en las sucursales de una empresa, específicamente para comprobar que los técnicos hayan realizado las actualizaciones requeridas:
 
 - **Memoria RAM**: Verificar que los equipos tengan al menos 7 GB de RAM
 - **Disco SSD**: Verificar que los equipos tengan un disco SSD instalado (mínimo 128 GB)
